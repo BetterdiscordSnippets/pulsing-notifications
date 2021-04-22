@@ -1,5 +1,5 @@
 # pulsing-notifications
-[Absol's pulsing notifications](https://github.com/absxl/slate-snippets/blob/master/Pulsing%20notifications.css) but it works for Discord, not [Slate](https://github.com/DiscordStyles/Slate).
+[Absol's pulsing notifications](https://github.com/absxl/slate-snippets/blob/master/Pulsing%20notifications.css) but it works for Discord, not [Slate](https://github.com/DiscordStyles/Slate). All credit goes to [absol](https://github.com/absxl/slate-snippets/blob/master/Pulsing%20notifications.css) for the code.
 
 ```css
 @keyframes pulse {
